@@ -25,6 +25,6 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
 # Capital adequacy, regulations, and the Basel II accord
 ## Basel II Accord
 - Minimum capital Requirements:
-- 1. Credit Risk
+  1. Credit Risk
   2. Operational Risk
   3. Market Risk
