@@ -6,4 +6,7 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
 * Borrower Specific
 * Economic Environment
   
-  Established credit risk modeling defines expected loss as PD x LGD x EAD
+Established credit risk modeling defines expected loss as PD x LGD x EAD
+* PD = Probability of Default
+* LGD = Loss Given Default
+* EAD = Exposure at Default
