@@ -5,3 +5,5 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
 ### Types of factors for expected loss
 * Borrower Specific
 * Economic Environment
+  
+  Established credit risk modeling defines expected loss as PD x LGD x EAD
