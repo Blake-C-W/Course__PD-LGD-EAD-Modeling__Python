@@ -22,8 +22,8 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
 * LGD = $18,000 / $360,000 = 5%
 * EL = 25% (PD) x 5% (LGD) x $360,000 (EAD) = $4,500
 
-# Capital adequacy, regulations, and the Basel II accord
-## Basel II Accord
+## Capital adequacy, regulations, and the Basel II accord
+### Basel II Accord
 - Minimum capital Requirements:
   1. Credit Risk
      * Standardized Approach (SA)
@@ -32,4 +32,24 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
          2. Advanced Internal Ratings Based (A-IRB) Approach
   3. Operational Risk
   4. Market Risk
-- 
+
+## Basel II approaches: SA, F-IRB, and A-IRB
+- SA
+  - lending to countries:
+    - Risk Weights
+      * AAA to AA-: 0%
+      * A+ to A-: 20%
+      * BBB+ to BBB-: 50%
+      * BB+ to B-: 100%
+      * Below BB-: 150%
+      * Unrated: 100%
+  - lending to firms:
+    - Risk Weights
+      * AAA to AA-: 20%
+      * A+ to A-: 50%
+      * BBB+ to BB-: 100%
+      * Below BB-: 150%
+      * Unrated: 100%
+  - Retail Risk Weight: %75
+  - Retail Risk Weight: %35
+
