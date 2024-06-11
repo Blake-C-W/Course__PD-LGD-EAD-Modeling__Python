@@ -26,5 +26,10 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
 ## Basel II Accord
 - Minimum capital Requirements:
   1. Credit Risk
-  2. Operational Risk
-  3. Market Risk
+     * Standardized Approach (SA)
+     * Internal Ratings Based (IRB) Approaches
+         1. Foundation Internal Ratings Based (F-IRB) Approach
+         2. Advanced Internal Ratings Based (A-IRB) Approach
+  3. Operational Risk
+  4. Market Risk
+- 
