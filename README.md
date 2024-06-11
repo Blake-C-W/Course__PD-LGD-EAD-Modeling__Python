@@ -8,5 +8,5 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
   
 ### Established credit risk modeling defines expected loss as PD x LGD x EAD
 * PD = Probability of Default
-* LGD = Loss Given Default
-* EAD = Exposure at Default
+* LGD = Loss Given Default (Min Loss)
+* EAD = Exposure at Default (Max Loss)
