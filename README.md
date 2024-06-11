@@ -4,7 +4,7 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
 ## Models
 * PD: Binomial Logistic Regression
 * LGD: Beta Regression
-* EAD Beta Regression
+* EAD: Beta Regression
 
 ## Expected loss(EL) and its components: PD, LGD, and EAD
 ### Types of factors for expected loss
