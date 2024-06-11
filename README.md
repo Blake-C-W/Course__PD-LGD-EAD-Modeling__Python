@@ -52,6 +52,6 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
       * Unrated: 100%
   - Retail Risk Weight: %75
   - Retail Risk Weight: %35
--F-IRB (PD: Internal, LGD: External, EAD: External)
--F-IRB (PD: Internal, LGD: Internal, EAD: Internal)
+- F-IRB (PD: Internal, LGD: External, EAD: External)
+- F-IRB (PD: Internal, LGD: Internal, EAD: Internal)
 
