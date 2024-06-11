@@ -34,7 +34,7 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
   4. Market Risk
 
 ## Basel II approaches: SA, F-IRB, and A-IRB
-- SA
+- SA (PD: External, LGD: External, EAD: External)
   - lending to countries:
     - Risk Weights
       * AAA to AA-: 0%
@@ -52,4 +52,6 @@ Modeling Probability of Default, Loss Given Default, and Exposure at Default
       * Unrated: 100%
   - Retail Risk Weight: %75
   - Retail Risk Weight: %35
+-F-IRB (PD: Internal, LGD: External, EAD: External)
+-F-IRB (PD: Internal, LGD: Internal, EAD: Internal)
 
